@@ -207,7 +207,6 @@ var QuillComponent = createClass({
 		if (this.quillDelta) {
 			this.editor.setContents(this.quillDelta);
 			this.editor.setSelection(this.quillSelection);		
-			this.editor.focus();
 			this.quillDelta = this.quillSelection = null;
 			return;
 		}
