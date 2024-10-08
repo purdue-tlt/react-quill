@@ -8,6 +8,7 @@
 - Removed Toolbar (#549)
 - Support for React 18 (#793, #822)
 
+
 ## v1.3.4
 
 - Bump Quill to 1.3.7 to close a security vulnerability (#575)
